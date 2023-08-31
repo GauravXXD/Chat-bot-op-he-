@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 echo Installing/updating bot dependencies
 call npm i --only=production --loglevel=warn >NUL
