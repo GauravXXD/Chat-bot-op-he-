@@ -1,7 +1,7 @@
 {
-    "token": "YOUR_DISCORD_BOT_TOKEN",
-    "prefix": "--",
-    "server": "https://discord.gg/devs",
-    "owners": "581752425858203659",
+    "token": "MTE0NDI4MTI3OTQ2MjkwMzgxOQ.GVWBgF.MJPtPohTAWq8HCXEzC9r3PXAvfZKhRZBeUv4vM",
+    "prefix": "!",
+    "server": "https://discord.gg/staker",
+    "owners": "1065243168192352347",
     "mongoURI": "mongodb://localhost:27017/Sujal-Goel"
 }
